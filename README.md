@@ -9,6 +9,10 @@ Sina Weibo Android App, require Android 4.1+, GPL v3 License
 --------------
 <img width="30%" height="30%" src="http://img.blog.csdn.net/20150327200907773"/>
 
+原作者
+--------------
+下面是原作者的说明文档：
+
 
 文档
 --------------
